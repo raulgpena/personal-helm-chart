@@ -3,7 +3,7 @@ entries:
   cloudacademy-webapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-06-29T12:13:53.634084+12:00"
+    created: "2022-09-16T20:26:39.949884+01:00"
     description: A Helm chart for Kubernetes
     digest: 86a84da349d6a2a9bda0ad94dd759c63f554b133a25a79ca7104cc7d07c51676
     name: cloudacademy-webapp
@@ -11,4 +11,15 @@ entries:
     urls:
     - cloudacademy-webapp-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-29T12:13:53.629847+12:00"
+  configserver:
+  - apiVersion: v2
+    appVersion: 3.0.6
+    created: "2022-09-16T20:26:39.95049+01:00"
+    description: A Helm chart for Kubernetes
+    digest: aa4e866eaae58791dc940b6e640da47e8c5dc67f13b14502fe51595b7c5860d7
+    name: configserver
+    type: application
+    urls:
+    - configserver-3.0.6.tgz
+    version: 3.0.6
+generated: "2022-09-16T20:26:39.948093+01:00"
