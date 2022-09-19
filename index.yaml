@@ -3,7 +3,7 @@ entries:
   cloudacademy-webapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-17T10:58:41.148434+01:00"
+    created: "2022-09-19T21:15:15.655229+01:00"
     description: A Helm chart for Kubernetes
     digest: 86a84da349d6a2a9bda0ad94dd759c63f554b133a25a79ca7104cc7d07c51676
     name: cloudacademy-webapp
@@ -14,7 +14,7 @@ entries:
   configserver:
   - apiVersion: v2
     appVersion: 3.3.6
-    created: "2022-09-17T10:58:41.151077+01:00"
+    created: "2022-09-19T21:15:15.65903+01:00"
     description: A Helm chart for Kubernetes
     digest: c70f83838651a0f8197b1510d4a3c97023767ba2ae83989c58c2555a5847badc
     name: configserver
@@ -24,7 +24,7 @@ entries:
     version: 3.3.6
   - apiVersion: v2
     appVersion: 3.2.6
-    created: "2022-09-17T10:58:41.150525+01:00"
+    created: "2022-09-19T21:15:15.658244+01:00"
     description: A Helm chart for Kubernetes
     digest: e53eba6a6eb8040556c208b7264d4f00cbdff225140316d3b173590d55ba6c12
     name: configserver
@@ -34,7 +34,7 @@ entries:
     version: 3.2.6
   - apiVersion: v2
     appVersion: 3.1.6
-    created: "2022-09-17T10:58:41.149834+01:00"
+    created: "2022-09-19T21:15:15.656754+01:00"
     description: A Helm chart for Kubernetes
     digest: 69c7366af931695651c59a1b4d40360d88aaebd66546f18c3fe195ce4586b67a
     name: configserver
@@ -44,7 +44,7 @@ entries:
     version: 3.1.6
   - apiVersion: v2
     appVersion: 3.0.6
-    created: "2022-09-17T10:58:41.149149+01:00"
+    created: "2022-09-19T21:15:15.655999+01:00"
     description: A Helm chart for Kubernetes
     digest: aa4e866eaae58791dc940b6e640da47e8c5dc67f13b14502fe51595b7c5860d7
     name: configserver
@@ -52,4 +52,15 @@ entries:
     urls:
     - configserver-3.0.6.tgz
     version: 3.0.6
-generated: "2022-09-17T10:58:41.147249+01:00"
+  ms-cross-system:
+  - apiVersion: v2
+    appVersion: 1.0.3
+    created: "2022-09-19T21:15:15.660087+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 5f9a2e6777ed62ee59a73b1ea4f29b36dbec770e4c2d6587eed0bbe27234a9cb
+    name: ms-cross-system
+    type: application
+    urls:
+    - ms-cross-system-1.0.3.tgz
+    version: 1.0.3
+generated: "2022-09-19T21:15:15.654029+01:00"
